@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string-array name="conversions">
+        <item>Rupees to Dollars</item>
+        <item>Dollars to Rupees</item>
+        <item>Rupees to Yen</item>
+        <item>Yen to Rupees</item>
+        <item>Rupees to Peso</item>
+        <item>Peso to Rupees</item>
+    </string-array>
+</resources>
